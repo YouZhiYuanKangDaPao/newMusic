@@ -22,7 +22,6 @@ root.render(
       <GlobalStyle></GlobalStyle>
       <IconStyle></IconStyle>
     </HashRouter>
-    {/*<App />*/}
   </React.StrictMode>
 );
 
